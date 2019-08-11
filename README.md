@@ -1,6 +1,6 @@
 ### DEPLOYED PROJECTS:
 
-### [https://react-burger-1db3b.firebaseapp.com/](React Burger)
+### [ReactBurger](https://react-burger-1db3b.firebaseapp.com/)
 
 ### `https://thecovert-milo.firebaseapp.com/`
 
