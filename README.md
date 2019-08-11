@@ -2,8 +2,8 @@
 
 ### [ReactBurger](https://react-burger-1db3b.firebaseapp.com/)
 
-### `https://thecovert-milo.firebaseapp.com/`
+### [Mini Corporate Network](https://thecovert-milo.firebaseapp.com/)
 
-### `https://marketplacemilo.herokuapp.com/`
+### [Marketplace](https://marketplacemilo.herokuapp.com/)
 
-### `https://quantron-5a828.firebaseapp.com/`
+### [Sorting Stack Overflow Api](https://quantron-5a828.firebaseapp.com/)
